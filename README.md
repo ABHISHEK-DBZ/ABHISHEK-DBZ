@@ -80,9 +80,9 @@
 ### 🌌 Connect With Me
 <p align="center">
   <a href="https://orcid.org/0009-0000-7724-1273"><img src="https://img.shields.io/badge/ORCID-Abhishek%20Jha-brightgreen?logo=orcid"></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-Abhishek%20Jha-red?logo=youtube"></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Jha-blue?logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Instagram-@Quantum__Ark-ff69b4?logo=instagram"></a>
+  <a href="#"><img src="https://img.shields.io/badge/YouTube-@music_vibesreel-red?logo=youtube"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-abhishek-jha-cse-blue?logo=linkedin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-abhishek_dbzk-ff69b4?logo=instagram"></a>
 </p>
 
 ---
