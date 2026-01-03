@@ -30,35 +30,6 @@
 
 ---
 
-### 🔥 Performance Matrix
-
-<div align="center">
-
-  <!-- Main GitHub Stats -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=ABHISHEK-DBZ&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <!-- Streak Stats -->
-  <img height="170"
-       src="https://streak-stats.demolab.com?user=ABHISHEK-DBZ&theme=tokyonight&hide_border=true" />
-
-  <br><br>
-
-  <!-- Top Languages -->
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHISHEK-DBZ&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-### 🏆 Achievement Nexus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHISHEK-DBZ&theme=tokyonight&no-frame=true&column=7" />
-</p>
-
----
-
 ### 🧬 Code Activity Lifeform
 <p align="center">
   <img src="https://raw.githubusercontent.com/ABHISHEK-DBZ/ABHISHEK-DBZ/output/github-contribution-grid-snake.svg" />
