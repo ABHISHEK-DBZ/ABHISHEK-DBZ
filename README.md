@@ -4,21 +4,30 @@
 <img src="assets/hero-anime-banner.jpg" width="100%" alt="Abhishek Jha - Cyberpunk Command Center Banner"/>
 
 <!-- CAPSULE RENDER HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:1e1b4b,80:4338ca,100:00f0ff&height=200&section=header&text=ABHISHEK%20JHA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20PRODUCT%20BUILDER%20%7C%20FOUNDER%20%7C%20DEVELOPER&descSize=18&descAlignY=66&descColor=38bdf8" width="100%" alt="Header banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,45:1e1b4b,80:4338ca,100:00f0ff&height=220&section=header&text=ABHISHEK%20JHA&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20PRODUCT%20BUILDER%20%7C%20FOUNDER%20%40%20QUANTUM-ARK%20%7C%20VLSI%20ENGINEER&descSize=17&descAlignY=66&descColor=38bdf8" width="100%" alt="Header banner" />
+
+<!-- ANIMATED CYBER SCANNER DIVIDER -->
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
 
 <!-- ANIMATED TYPING HUD -->
 <a href="https://github.com/ABHISHEK-DBZ">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=800&color=00F0FF&background=03071200&center=true&vCenter=true&width=860&lines=AI+PRODUCT+BUILDER+%7C+FOUNDER+%7C+DEVELOPER;FOUNDER+%40+LEXACORE+AI+%E2%80%94+LEGAL+INTELLIGENCE;VOICE-FIRST+OFFLINE+FINTECH+%40+KHATACOPILOT;VLSI+STUDENT+%E2%80%94+BRIDGING+SILICON+TO+INTELLIGENT+SOFTWARE;EXPLORING+AGENTIC+AI%2C+RAG+%26+LOCAL+LLM+INFERENCE;FROM+ZERO+TO+ONE+%E2%80%94+ARCHITECT%2C+CODE%2C+SHIP." alt="Cyberpunk HUD Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=800&color=00F0FF&background=03071200&center=true&vCenter=true&width=880&lines=AI+PRODUCT+BUILDER+%7C+FOUNDER+%40+QUANTUM-ARK+%7C+DEVELOPER;FOUNDER+%26+ARCHITECT+%40+LEXACORE+AI+%E2%80%94+LEGAL+INTELLIGENCE;ORBIT+%2F%2F+ISRO+ADITYA-L1+SPACE+WEATHER+PHYSICS-INFORMED+ML;VOICE-FIRST+OFFLINE+FINTECH+%40+KHATACOPILOT;PATCHPILOT+AI+%E2%80%94+SELF-HEALING+DEPENDENCY+RESILIENCE;AEGIS-AI+%E2%80%94+MULTI-AGENT+CRIME+DNA+%26+GENOMIC+INTELLIGENCE;VLSI+STUDENT+%40+UOM+%E2%80%94+BRIDGING+SILICON+TO+INTELLIGENT+AGENTS;FROM+ZERO+TO+ONE+%E2%80%94+ARCHITECT%2C+CODE%2C+SHIP." alt="Cyberpunk HUD Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<!-- SYSTEM STATUS & CORE METRICS -->
+<!-- SYSTEM STATUS & CORE TELEMETRY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/IDENTITY-AI%20PRODUCT%20BUILDER-00f0ff?style=for-the-badge&logo=probot&logoColor=black&labelColor=030712" alt="Identity"/>
-  <img src="https://img.shields.io/badge/FOUNDER-LEXACORE%20AI-8b5cf6?style=for-the-badge&logo=deepnote&logoColor=white&labelColor=030712" alt="Founder"/>
-  <img src="https://img.shields.io/badge/EDUCATION-VLSI%20ENGINEERING-38bdf8?style=for-the-badge&logo=intel&logoColor=white&labelColor=030712" alt="Education"/>
-  <img src="https://img.shields.io/badge/LOCATION-INDIA%20%F0%9F%87%AE%F0%9F%87%B3-a855f7?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=030712" alt="Location"/>
+  <a href="https://github.com/Quantum-Ark" target="_blank">
+    <img src="https://img.shields.io/badge/ORGANIZATION-@QUANTUM--ARK-00f0ff?style=for-the-badge&logo=github&logoColor=black&labelColor=030712" alt="Quantum-Ark"/>
+  </a>
+  <a href="https://abhishek-jha-portfolio.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-THE%20SYSTEM%20BUILDER-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=030712" alt="Portfolio"/>
+  </a>
+  <a href="https://orcid.org/0009-0000-7724-1273" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--7724--1273-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=030712" alt="ORCID"/>
+  </a>
+  <img src="https://img.shields.io/badge/BASE-MUMBAI%2C%20INDIA%20%F0%9F%87%AE%F0%9F%87%B3-38bdf8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=030712" alt="Mumbai, India"/>
 </p>
 
 <p align="center">
@@ -31,7 +40,7 @@
   <a href="https://github.com/ABHISHEK-DBZ?tab=repositories">
     <img src="https://img.shields.io/github/stars/ABHISHEK-DBZ?style=for-the-badge&logo=github&label=STARS&color=8b5cf6&labelColor=030712" alt="Stars"/>
   </a>
-  <img src="https://img.shields.io/badge/STATUS-SYSTEMS%20ACTIVE-10b981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=030712" alt="System Status"/>
+  <img src="https://img.shields.io/badge/SYSTEMS-OPTIMAL%20%E2%80%A2%20ONLINE-10b981?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=030712" alt="Systems Online"/>
 </p>
 
 </div>
@@ -48,26 +57,29 @@
 
 > **"Make technology useful, not just impressive."**
 
-I am an **AI-focused product builder, founder, and developer** passionate about building intelligent applications, AI-powered products, and technology-driven solutions that solve tangible problems.
+I am an **AI Product Builder, Founder, and VLSI Systems Developer** based in **Mumbai, India** (`19.0760° N, 72.8777° E`). I lead engineering and research at **[@Quantum-Ark](https://github.com/Quantum-Ark)** and build intelligent applications, multi-agent frameworks, and domain-adapted AI architectures.
 
-Currently pursuing **VLSI (Very Large Scale Integration) Engineering** in India — bridging the gap between semiconductor hardware architecture, edge compute, and modern frontier AI systems.
+Currently studying **Electronic Engineering (VLSI)** at the **University of Mumbai** (2024–2028) — researching the intersection of semiconductor hardware logic, edge acceleration, physics-informed neural modeling, and frontier AI systems.
 
-I believe in **end-to-end craftsmanship**: taking ideas from rough zero-stage napkin concepts to rock-solid software architecture, resilient backends, agentic workflows, and shipped production applications.
+I believe in **end-to-end craftsmanship**: taking raw ideas from architectural blueprints to resilient backends, agentic loops, and shipped production applications that create real-world utility.
 
-#### 🧠 CORE COGNITIVE FOCUS & INTERESTS
-- 🤖 **Artificial Intelligence & Generative AI** — Advanced prompt reasoning, multi-modal synthesis, and synthetic datasets
-- ⚡ **Large Language Models & RAG** — Hybrid vector/sparse retrieval, chunking strategies, reranking, and citation guarantees
-- 🧬 **Agentic AI & Multi-Agent Workflows** — Autonomous problem decomposition, reflection loops, and tool orchestration
-- 🕸️ **Knowledge Graphs** — Graph RAG, semantic ontologies, and relational context augmentation
-- 🔐 **Local LLM Inference** — Privacy-preserving edge deployment, quantization (GGUF/AWQ), and zero-leak architectures
-- ⚙️ **Backend Engineering** — High-throughput asynchronous APIs, event-driven pipelines, and distributed data systems
-- 📐 **Software Architecture** — Deep module design, robust error recovery, and production scalability
+#### 🧠 CORE COGNITIVE FOCUS & HORIZONS
+- 🤖 **Artificial Intelligence & Generative AI** — Advanced reasoning loops, multimodal synthesis & synthetic data
+- ⚡ **Large Language Models & RAG** — Dense/sparse hybrid vector search, citation guarantees & knowledge graphs
+- 🧬 **Agentic AI & Swarm Intelligence** — Autonomous multi-agent coordination, tool execution & self-reflection
+- 🛰️ **Physics-Informed Deep Learning** — Solar flare prediction, space weather telemetry & scientific ML
+- 🔐 **Local LLM Inference & Edge AI** — Privacy-preserving on-device compute, quantization (GGUF/AWQ)
+- ⚙️ **Backend Engineering & Distributed Systems** — High-concurrency APIs, microservices & telemetry
+- 📐 **Software Architecture & VLSI Logic** — Deep module design, fault-tolerant circuits & silicon logic
 
 ```bash
 user@abhishek-dbz:~$ systeminfo --target "AI Product Ecosystem"
-[+] MISSION    : Build intelligent software that creates real economic value
 [+] OPERATOR   : Abhishek Jha (@ABHISHEK-DBZ)
-[+] SPECIALTY  : Full-Cycle AI Product Engineering & System Architecture
+[+] FOUNDER    : @Quantum-Ark // Lexacore AI // KhataCopilot
+[+] LOCATION   : Mumbai, Maharashtra, India 🇮🇳 (19.0760° N, 72.8777° E)
+[+] EDUCATION  : University of Mumbai — Electronic Engineering (VLSI) [2024–2028]
+[+] ORCID ID   : 0009-0000-7724-1273 (https://orcid.org/0009-0000-7724-1273)
+[+] PORTFOLIO  : https://abhishek-jha-portfolio.surge.sh/
 [+] STATUS     : Shipping code daily 🚀
 ```
 
@@ -77,12 +89,16 @@ user@abhishek-dbz:~$ systeminfo --target "AI Product Ecosystem"
 <img src="assets/profile-portrait.jpg" width="100%" style="border-radius: 12px; border: 2px solid #38bdf8;" alt="Abhishek Jha - Portrait"/>
 
 ### **ABHISHEK JHA**
-<sub>AI PRODUCT BUILDER · FOUNDER · DEVELOPER</sub>
+<sub>AI PRODUCT BUILDER · FOUNDER @ QUANTUM-ARK</sub>
 
 <br/>
 
-<img src="https://img.shields.io/badge/DISCIPLINE-VLSI%20%2B%20AI-00f0ff?style=flat-square&labelColor=030712"/>
-<img src="https://img.shields.io/badge/BUILDER%20MODE-ACTIVE-10b981?style=flat-square&labelColor=030712"/>
+<a href="https://github.com/Quantum-Ark" target="_blank">
+  <img src="https://img.shields.io/badge/ORGANIZATION-@QUANTUM--ARK-00f0ff?style=flat-square&logo=github&labelColor=030712"/>
+</a>
+<br/>
+<img src="https://img.shields.io/badge/DISCIPLINE-VLSI%20%2B%20AI-8b5cf6?style=flat-square&labelColor=030712"/>
+<img src="https://img.shields.io/badge/MUMBAI-ACTIVE-10b981?style=flat-square&labelColor=030712"/>
 
 <br/><br/>
 
@@ -94,21 +110,24 @@ user@abhishek-dbz:~$ systeminfo --target "AI Product Ecosystem"
 </tr>
 </table>
 
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
+
 ---
 
 ## 🚀 02 // PROJECT SHOWCASE: THE BUILD MATRIX
 
 <div align="center">
-  <p><em>Enterprise-grade AI products, voice-first utilities, and domain-specific intelligence architectures.</em></p>
+  <p><em>Enterprise legal intelligence, space weather neural physics, voice-first fintech, and self-healing systems.</em></p>
 </div>
 
+<!-- ROW 1: LEXACORE AI & KHATACOPILOT -->
 <table>
 <tr>
 <!-- LEXACORE AI -->
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="assets/lexacore-logo.jpeg" width="100%" style="border-radius: 10px; max-height: 240px; object-fit: cover;" alt="Lexacore AI Logo"/>
+  <img src="assets/lexacore-logo.jpeg" width="100%" style="border-radius: 10px; max-height: 230px; object-fit: cover;" alt="Lexacore AI Logo"/>
 </div>
 
 ### ⚖️ LEXACORE AI
@@ -116,9 +135,9 @@ user@abhishek-dbz:~$ systeminfo --target "AI Product Ecosystem"
 
 A cutting-edge legal intelligence platform engineered to eliminate bureaucratic cognitive drag in enterprise legal workflows.
 
-- **Contract Intelligence**: Automated multi-clause risk scoring, anomaly detection, and cross-jurisdictional compliance checks.
-- **Document Analysis & Search**: Hybrid dense-sparse RAG pipeline over statutes, contracts, and case precedents with pinpoint citations.
-- **Privacy-Conscious Architecture**: Zero-retention data pipelines ensuring complete client confidentiality.
+- **Contract Intelligence**: Automated multi-clause risk scoring, anomaly detection, and cross-jurisdictional compliance verification.
+- **Document Analysis & Search**: Hybrid dense-sparse RAG pipeline over statutory law and case precedents with pinpoint citations.
+- **Privacy-Conscious Architecture**: Zero-retention data pipelines ensuring complete client-attorney confidentiality.
 
 <br/>
 
@@ -129,7 +148,7 @@ Python · FastAPI · Supabase · PostgreSQL · LangChain · LlamaIndex · Docker
 
 <p align="center">
   <a href="https://github.com/ABHISHEK-DBZ/lexacore-ai">
-    <img src="https://img.shields.io/badge/REPOSITORY-LEXACORE%20AI-00f0ff?style=for-the-badge&logo=github&labelColor=030712" alt="Lexacore Repo"/>
+    <img src="https://img.shields.io/badge/REPO-LEXACORE%20AI-00f0ff?style=for-the-badge&logo=github&labelColor=030712" alt="Lexacore Repo"/>
   </a>
   <img src="https://img.shields.io/badge/STAGE-ACTIVE%20BUILD-8b5cf6?style=for-the-badge&labelColor=030712" alt="Active Build"/>
 </p>
@@ -140,7 +159,7 @@ Python · FastAPI · Supabase · PostgreSQL · LangChain · LlamaIndex · Docker
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="assets/khatacopilot-logo.jpeg" width="100%" style="border-radius: 10px; max-height: 240px; object-fit: cover;" alt="KhataCopilot Logo"/>
+  <img src="assets/khatacopilot-logo.jpeg" width="100%" style="border-radius: 10px; max-height: 230px; object-fit: cover;" alt="KhataCopilot Logo"/>
 </div>
 
 ### 🎙️ KHATACOPILOT
@@ -149,7 +168,7 @@ Python · FastAPI · Supabase · PostgreSQL · LangChain · LlamaIndex · Docker
 An intelligent bookkeeping companion empowering small business merchants to record transactions naturally through voice.
 
 - **Multilingual Voice Interaction**: Speech-to-transaction parsing supporting regional accents and vernacular speech patterns.
-- **Offline-First Architecture**: High-speed local database operations ensuring uninterrupted bookkeeping without an active internet connection.
+- **Offline-First Architecture**: High-speed local database operations ensuring uninterrupted bookkeeping without internet connectivity.
 - **Automated Ledger Auditing**: Smart cashflow summaries, credit-debit reconciliations, and instant customer balance notifications.
 
 <br/>
@@ -160,21 +179,127 @@ Flutter · Dart · SQLite · Whisper AI · FastAPI · Local LLM Inference
 ```
 
 <p align="center">
-  <a href="https://github.com/ABHISHEK-DBZ/khatacopilot">
-    <img src="https://img.shields.io/badge/REPOSITORY-KHATACOPILOT-38bdf8?style=for-the-badge&logo=github&labelColor=030712" alt="KhataCopilot Repo"/>
+  <a href="https://github.com/Quantum-Ark/khatakopilot-website">
+    <img src="https://img.shields.io/badge/WEBSITE-KHATACOPILOT-38bdf8?style=for-the-badge&logo=googlechrome&labelColor=030712" alt="KhataCopilot Website"/>
   </a>
-  <img src="https://img.shields.io/badge/STAGE-PROTOTYPE%20READY-10b981?style=for-the-badge&labelColor=030712" alt="Prototype Ready"/>
+  <a href="https://github.com/Quantum-Ark/khatacopilot-releases">
+    <img src="https://img.shields.io/badge/RELEASES-v1.0-10b981?style=for-the-badge&logo=github&labelColor=030712" alt="Releases"/>
+  </a>
 </p>
 
 </td>
 </tr>
 
+<!-- ROW 2: ORBIT // ISRO & PATCHPILOT AI -->
 <tr>
+<!-- ORBIT // ISRO -->
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="assets/orbit-isro-logo.svg" width="100%" style="border-radius: 10px; max-height: 230px;" alt="ORBIT ISRO Space Weather Logo"/>
+</div>
+
+### 🛰️ ORBIT // ISRO ADITYA-L1
+> **Space Weather AI & Solar Flare Nowcasting**
+
+A deep physics-informed scientific ML system predicting extreme solar flare events in real time using multi-band satellite telemetry from India's Aditya-L1 solar observatory.
+
+- **Multi-Band Sensor Fusion**: Integrating real-time telemetry from Aditya-L1 SoLEXS (Soft X-ray) and HEL1OS (Hard X-ray) instruments.
+- **Physics-Informed Deep Learning**: Hybrid neural architectures combining magnetohydrodynamic physics priors with temporal attention.
+- **Early-Warning Space Weather Radar**: Autonomous alerts for geomagnetic storm onset, satellite drag risks, and grid vulnerability.
+
+<br/>
+
+```
+TECH STACK:
+Python · PyTorch · Aditya-L1 Telemetry · Physics-ML · FastAPI · TimescaleDB
+```
+
+<p align="center">
+  <a href="https://github.com/Quantum-Ark/ISRO-hackathon">
+    <img src="https://img.shields.io/badge/RESEARCH-ISRO%20HACKATHON-f59e0b?style=for-the-badge&logo=github&labelColor=030712" alt="ISRO Repo"/>
+  </a>
+  <a href="https://github.com/ABHISHEK-DBZ/orbit">
+    <img src="https://img.shields.io/badge/REPO-ORBIT%20CORE-00f0ff?style=for-the-badge&logo=github&labelColor=030712" alt="Orbit Repo"/>
+  </a>
+</p>
+
+</td>
+
+<!-- PATCHPILOT AI -->
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="assets/patchpilot-logo.svg" width="100%" style="border-radius: 10px; max-height: 230px;" alt="PatchPilot AI Logo"/>
+</div>
+
+### 🛡️ PATCHPILOT AI
+> **AI-Powered Dependency Resilience & Migration Planner**
+
+An autonomous developer resilience tool. *Product Principle: AI proposes. The tool verifies. The developer approves. Tests provide evidence.*
+
+- **AST Breaking-Change Detection**: Deep semantic inspection of package version upgrades, deprecations, and breaking API signatures.
+- **Automated Sandbox Verification**: Runs isolated migration experiments in containerized test runners to prove compatibility before merge.
+- **Deterministic Fix Patches**: Generates precise code diffs for downstream breaking changes with zero hallucination.
+
+<br/>
+
+```
+TECH STACK:
+Python · AST Manipulation · Docker · Pytest · GitHub Actions · LLM Agents
+```
+
+<p align="center">
+  <a href="https://github.com/Quantum-Ark/patchai">
+    <img src="https://img.shields.io/badge/ORG%20REPO-PATCHAI-8b5cf6?style=for-the-badge&logo=github&labelColor=030712" alt="PatchPilot Org Repo"/>
+  </a>
+  <a href="https://github.com/ABHISHEK-DBZ/ancient-skull">
+    <img src="https://img.shields.io/badge/REPO-ANCIENT%20SKULL-38bdf8?style=for-the-badge&logo=github&labelColor=030712" alt="Ancient Skull Repo"/>
+  </a>
+</p>
+
+</td>
+</tr>
+
+<!-- ROW 3: AEGIS-AI & SMART KRISHI SAHAYAK -->
+<tr>
+<!-- AEGIS-AI -->
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="assets/aegis-ai-logo.svg" width="100%" style="border-radius: 10px; max-height: 230px;" alt="Aegis AI Logo"/>
+</div>
+
+### 🧬 AEGIS-AI // CRIME DNA ENGINE
+> **All-State Engine for Forensic Intelligence & Surveillance**
+
+An elite multi-agent cognitive intelligence platform developed for state-level criminal investigation, digital twin modeling, and pattern synthesis.
+
+- **Criminal Digital Twins**: Behavioral modeling from historical FIR dossiers, charge sheets, and interrogation transcripts.
+- **Temporal Gang Knowledge Graphs**: Uncovering latent syndicates, multi-hop financial ties, and fugitive communication networks.
+- **Forensic Multi-Agent Swarm**: Specialized autonomous agents for crime simulation, anomaly discovery, and field telemetry.
+
+<br/>
+
+```
+TECH STACK:
+TypeScript · React · Python · Neo4j · Multi-Agent Swarms · FastAPI · Docker
+```
+
+<p align="center">
+  <a href="https://github.com/ABHISHEK-DBZ/Aegis-AI">
+    <img src="https://img.shields.io/badge/REPOSITORY-AEGIS--AI-a855f7?style=for-the-badge&logo=github&labelColor=030712" alt="Aegis AI Repo"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-10b981?style=for-the-badge&labelColor=030712" alt="Operational"/>
+</p>
+
+</td>
+
 <!-- SMART KRISHI SAHAYAK -->
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="assets/smart-krishi-logo.svg" width="100%" style="border-radius: 10px; max-height: 240px;" alt="Smart Krishi Sahayak Logo"/>
+  <img src="assets/smart-krishi-logo.svg" width="100%" style="border-radius: 10px; max-height: 230px;" alt="Smart Krishi Sahayak Logo"/>
 </div>
 
 ### 🌾 SMART KRISHI SAHAYAK
@@ -195,18 +320,23 @@ TensorFlow · PyTorch · Flutter · FastAPI · Computer Vision · IoT
 
 <p align="center">
   <a href="https://github.com/ABHISHEK-DBZ/smart-krishi-sahayak">
-    <img src="https://img.shields.io/badge/REPOSITORY-SMART%20KRISHI-10b981?style=for-the-badge&logo=github&labelColor=030712" alt="Smart Krishi Repo"/>
+    <img src="https://img.shields.io/badge/REPO-SMART%20KRISHI-10b981?style=for-the-badge&logo=github&labelColor=030712" alt="Smart Krishi Repo"/>
   </a>
-  <img src="https://img.shields.io/badge/STAGE-RESEARCH%20%26%20DEV-f59e0b?style=for-the-badge&labelColor=030712" alt="Research & Dev"/>
+  <a href="https://github.com/Quantum-Ark/agro">
+    <img src="https://img.shields.io/badge/ORG-AGRO%20CORE-00f0ff?style=for-the-badge&logo=github&labelColor=030712" alt="Agro Core"/>
+  </a>
 </p>
 
 </td>
+</tr>
 
+<!-- ROW 4: RUNWISELY DENTAL & AUTOBENCH -->
+<tr>
 <!-- RUNWISELY DENTAL -->
 <td width="50%" valign="top">
 
 <div align="center">
-  <img src="assets/runwisely-dental-logo.svg" width="100%" style="border-radius: 10px; max-height: 240px;" alt="Runwisely Dental Logo"/>
+  <img src="assets/runwisely-dental-logo.svg" width="100%" style="border-radius: 10px; max-height: 230px;" alt="Runwisely Dental Logo"/>
 </div>
 
 ### 🦷 RUNWISELY DENTAL
@@ -233,8 +363,42 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 </p>
 
 </td>
+
+<!-- AUTOBENCH -->
+<td width="50%" valign="top">
+
+<div align="center">
+  <img src="assets/anime-accent.jpg" width="100%" style="border-radius: 10px; max-height: 230px; object-fit: cover;" alt="AutoBench Multi-Agent Sandbox"/>
+</div>
+
+### ⚡ AUTOBENCH // MULTI-AGENT SANDBOX
+> **Adversarial Benchmark & Stress Testing for LLM Agents**
+
+An elite multi-agent sandbox benchmarking suite designed to systematically evaluate autonomous LLM agents under adversarial conditions.
+
+- **Adversarial Traps & Chaos Testing**: Injects edge cases, unexpected tool failures, and deceptive context into agent decision loops.
+- **Deterministic Evaluation**: Measures tool-calling precision, reasoning efficiency, and token economics across frontier models.
+- **Safety & Jailbreak Telemetry**: Rigorous security guardrails verifying that autonomous agents operate strictly within permitted bounds.
+
+<br/>
+
+```
+TECH STACK:
+Python · LLM Benchmarking · Docker Sandboxes · Asyncio · Prometheus
+```
+
+<p align="center">
+  <a href="https://github.com/ABHISHEK-DBZ/Autobench">
+    <img src="https://img.shields.io/badge/REPOSITORY-AUTOBENCH-00f0ff?style=for-the-badge&logo=github&labelColor=030712" alt="AutoBench Repo"/>
+  </a>
+  <img src="https://img.shields.io/badge/STATUS-BENCHMARKING-10b981?style=for-the-badge&labelColor=030712" alt="Benchmarking"/>
+</p>
+
+</td>
 </tr>
 </table>
+
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
 
 ---
 
@@ -246,10 +410,10 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 
 ### `> CORE RUNTIME ENVIRONMENTS // PROGRAMMING LANGUAGES`
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,dart,go&theme=dark" alt="Programming Languages: Python, C, C++, Java, JavaScript, TypeScript, Dart, Go" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,rust,js,ts,dart,go&theme=dark" alt="Programming Languages: Python, C, C++, Java, Rust, JavaScript, TypeScript, Dart, Go" />
 </p>
 <p align="center">
-  <code>PYTHON</code> · <code>C</code> · <code>C++</code> · <code>JAVA</code> · <code>JAVASCRIPT</code> · <code>TYPESCRIPT</code> · <code>DART</code> · <code>GO</code>
+  <code>PYTHON</code> · <code>C</code> · <code>C++</code> · <code>JAVA</code> · <code>RUST</code> · <code>JAVASCRIPT</code> · <code>TYPESCRIPT</code> · <code>DART</code> · <code>GO</code>
 </p>
 
 <br/>
@@ -263,6 +427,7 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
   <img src="https://img.shields.io/badge/LLMS-FINE%20TUNING%20%26%20INFERENCE-8b5cf6?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=030712" alt="LLMs"/>
   <img src="https://img.shields.io/badge/RAG-HYBRID%20SEARCH%20%26%20GRAPHS-38bdf8?style=for-the-badge&logo=chroma&logoColor=white&labelColor=030712" alt="RAG"/>
   <img src="https://img.shields.io/badge/AI%20AGENTS-MULTI--AGENT%20ORCHESTRATION-a855f7?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=030712" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/PHYSICS--ML-SPACE%20WEATHER%20%26%20SOLAR-f59e0b?style=for-the-badge&logo=nasa&logoColor=white&labelColor=030712" alt="Physics-ML"/>
   <img src="https://img.shields.io/badge/COMPUTER%20VISION-CNN%20%26%20YOLO-10b981?style=for-the-badge&logo=opencv&logoColor=white&labelColor=030712" alt="Computer Vision"/>
 </p>
 
@@ -295,6 +460,8 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 <p align="center">
   <code>GIT</code> · <code>GITHUB ACTIONS</code> · <code>DOCKER</code> · <code>VS CODE</code> · <code>LINUX</code> · <code>AWS</code> · <code>FIREBASE</code> · <code>VERCEL</code>
 </p>
+
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
 
 ---
 
@@ -354,12 +521,14 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 
 </div>
 
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
+
 ---
 
 ## 📷 06 // MY JOURNEY: PHYSICAL CHRONICLES
 
 <div align="center">
-  <p><em>From hackathons and volunteer summits to silicon electronics laboratories and midnight building sprints.</em></p>
+  <p><em>From developer summits and volunteer training to silicon laboratories and midnight building sprints.</em></p>
 </div>
 
 <table>
@@ -416,6 +585,8 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 </tr>
 </table>
 
+<img src="assets/cyber-hud-divider.svg" width="100%" alt="Holographic HUD Scanning Divider" />
+
 ---
 
 ## 🔮 07 // EXPLORATION RADAR & HORIZONS
@@ -430,6 +601,9 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
 ├──────────────────────────────────────────────────────────────────────────────┤
 │ [03] ENTERPRISE GRAPH-AUGMENTED GENERATION (GRAPH-RAG)                       │
 │      Synthesizing dense vector similarity with deterministic knowledge nets. │
+├──────────────────────────────────────────────────────────────────────────────┤
+│ [04] PHYSICS-INFORMED NEURAL TELEMETRY FOR SPACE WEATHER FORECASTING         │
+│      Fusing solar magnetohydrodynamic dynamics with deep temporal models.    │
 └──────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -445,21 +619,34 @@ Python · Document AI · FastAPI · OCR · NLP Pipelines · HIPAA Compliant
   <a href="https://github.com/ABHISHEK-DBZ" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-ABHISHEK--DBZ-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=030712" alt="GitHub Profile"/>
   </a>
-  <a href="https://linkedin.com/in/" target="_blank">
+  <a href="https://github.com/Quantum-Ark" target="_blank">
+    <img src="https://img.shields.io/badge/ORGANIZATION-@QUANTUM--ARK-00f0ff?style=for-the-badge&logo=github&logoColor=black&labelColor=030712" alt="Quantum-Ark"/>
+  </a>
+  <a href="https://www.linkedin.com/in/abhishek-jha-cse" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-ABHISHEK%20JHA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=030712" alt="LinkedIn Profile"/>
   </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-CONNECT-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=030712" alt="X / Twitter"/>
+  <a href="https://x.com/AbhishekJh46114" target="_blank">
+    <img src="https://img.shields.io/badge/X%20%2F%20TWITTER-@AbhishekJh46114-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=030712" alt="X / Twitter"/>
   </a>
-  <a href="mailto:contact@abhishekjha.dev">
-    <img src="https://img.shields.io/badge/EMAIL-LET'S%20TALK-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" alt="Email Abhishek"/>
+</p>
+
+<p align="center">
+  <a href="https://abhishek-jha-portfolio.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-THE%20SYSTEM%20BUILDER-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=030712" alt="Portfolio Website"/>
   </a>
+  <a href="https://orcid.org/0009-0000-7724-1273" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0000--7724--1273-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=030712" alt="ORCID Record"/>
+  </a>
+  <a href="mailto:abhibro936@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-abhibro936@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=030712" alt="Email Abhishek"/>
+  </a>
+  <img src="https://img.shields.io/badge/LOCATION-MUMBAI%2C%20INDIA-38bdf8?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=030712" alt="Location Mumbai"/>
 </p>
 
 <br/>
 
 <!-- ANIMATED CLOSING MOTTO -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=38BDF8&background=03071200&center=true&vCenter=true&width=750&lines=BUILD+WITH+PURPOSE.+SHIP+WITH+PRIDE.;STAY+CURIOUS.+KEEP+CREATING.;ENGINEER+THE+FUTURE." alt="Closing motto typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2500&pause=900&color=38BDF8&background=03071200&center=true&vCenter=true&width=780&lines=BUILD+WITH+PURPOSE.+SHIP+WITH+PRIDE.;INNOVATING+AT+QUANTUM-ARK.+SCALING+INTELLIGENCE.;STAY+CURIOUS.+KEEP+CREATING.;ENGINEER+THE+FUTURE." alt="Closing motto typing SVG"/>
 
 <br/><br/>
 

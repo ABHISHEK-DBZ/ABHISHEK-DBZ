@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGradPatch" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#030712" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <linearGradient id="shieldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+    <filter id="glowPatch" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="7" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <style>
+      @keyframes pulseCircuit {
+        0%, 100% { stroke-opacity: 0.4; }
+        50% { stroke-opacity: 1; }
+      }
+      .circuit-pulse {
+        animation: pulseCircuit 2.5s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="512" height="512" rx="36" fill="url(#bgGradPatch)" />
+  <rect width="504" height="504" x="4" y="4" rx="34" fill="none" stroke="#38bdf8" stroke-width="2" stroke-opacity="0.35" />
+
+  <!-- Shield & Dependency Nodes -->
+  <g transform="translate(256, 205)" filter="url(#glowPatch)">
+    <!-- Outer Shield -->
+    <path d="M 0,-70 L 60,-40 L 60,25 C 60,65 0,90 0,90 C 0,90 -60,65 -60,25 L -60,-40 Z" fill="#090d16" stroke="url(#shieldGrad)" stroke-width="3" />
+    
+    <!-- Inner Neural Branching -->
+    <circle cx="0" cy="-10" r="14" fill="#38bdf8" />
+    <circle cx="-28" cy="25" r="9" fill="#818cf8" />
+    <circle cx="28" cy="25" r="9" fill="#c084fc" />
+    
+    <!-- Connecting Code Vectors -->
+    <line x1="0" y1="-10" x2="-28" y2="25" stroke="#ffffff" stroke-width="2.5" class="circuit-pulse" />
+    <line x1="0" y1="-10" x2="28" y2="25" stroke="#ffffff" stroke-width="2.5" class="circuit-pulse" />
+    <line x1="-28" y1="25" x2="28" y2="25" stroke="#38bdf8" stroke-width="1.5" stroke-dasharray="3 3" />
+
+    <!-- Self-Healing Checkmark in Center Node -->
+    <path d="M -5,-10 L -1,-6 L 6,-14" fill="none" stroke="#030712" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <!-- Typography -->
+  <text x="256" y="375" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="900" font-size="28" fill="#ffffff" text-anchor="middle" letter-spacing="4">PATCHPILOT AI</text>
+  <text x="256" y="410" font-family="'Segoe UI', -apple-system, Roboto, sans-serif" font-weight="700" font-size="18" fill="#38bdf8" text-anchor="middle" letter-spacing="3">DEPENDENCY RESILIENCE &amp; AST</text>
+  <text x="256" y="448" font-family="'JetBrains Mono', Consolas, monospace" font-size="12" fill="#818cf8" text-anchor="middle" letter-spacing="2">SELF-HEALING MIGRATION ENGINE</text>
+</svg>
